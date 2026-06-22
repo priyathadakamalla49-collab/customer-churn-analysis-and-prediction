@@ -63,8 +63,6 @@ Model Evaluation
 
 <img width="1204" height="670" alt="customer_churn_dashboard" src="https://github.com/user-attachments/assets/e7a6aa5c-365a-4151-8603-b4567f2f4a0f" />
 
-```md
-```
 
 ---
 
