@@ -64,7 +64,6 @@ Model Evaluation
 <img width="1204" height="670" alt="customer_churn_dashboard" src="https://github.com/user-attachments/assets/e7a6aa5c-365a-4151-8603-b4567f2f4a0f" />
 
 ```md
-![Dashboard](screenshots/dashboard.png)
 ```
 
 ---
@@ -115,21 +114,19 @@ Top churn drivers identified through machine learning:
 
 ### Power BI Dashboard
 
-```md
-<img width="1204" height="670" alt="customer_churn_dashboard" src="https://github.com/user-attachments/assets/566d4450-0e75-4bc9-85e5-d529c7560d83" />
-```
+<img width="1204" height="670" alt="customer_churn_dashboard" src="https://github.com/user-attachments/assets/45cb8b52-d241-411e-809b-6b588bc6646f" />
+
 
 ### Model Comparison
 
-```md
-<img width="886" height="208" alt="Model Comparison" src="https://github.com/user-attachments/assets/cae0ec02-7317-45c1-8ebe-100e9e826c97" />
-```
+<img width="886" height="208" alt="Model Comparison" src="https://github.com/user-attachments/assets/cf1c818c-91a9-4022-a0f8-df2d4965f858" />
+
+
 
 ### Feature Importance
 
-```md
-<img width="574" height="300" alt="XGB Feature Importance" src="https://github.com/user-attachments/assets/5ebfe2aa-0033-4074-a48f-0dce44d05cc9" />
-```
+<img width="574" height="300" alt="XGB Feature Importance" src="https://github.com/user-attachments/assets/999acedf-558c-447d-9941-db6f3350e81f" />
+
 
 ---
 
